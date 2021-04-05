@@ -1,4 +1,3 @@
 # hello-world
 ## Hello hnu
-this is a student
-仓库
+第一次修改文件，并通过Git上传
