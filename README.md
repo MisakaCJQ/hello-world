@@ -1,2 +1,3 @@
 # hello-world
-第一个仓库
+## Hello hnu
+this is a student
